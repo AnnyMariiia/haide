@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagină de test cu imagine</title>
+</head>
+<body>
+    <h1>Pagina mea de test</h1>
+    <p>Aici este o imagine de test:</p>
+    <img src="testnou.jpg" alt="Imagine de test" width="600" height="400">
+</body>
+</html>
